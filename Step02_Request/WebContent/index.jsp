@@ -11,10 +11,12 @@
 <div class="container">
 	<h1>This is an Index page.</h1>
 	<ul>
+		<!-- Servlet -->
 		<li><a href="/Step02_Request/detail?num=1">Show details 1...(Servlet)</a></li>
 		<li><a href="/Step02_Request/detail?num=2">Show details 2...(Servlet)</a></li>
 		<li><a href="/Step02_Request/detail?num=3">Show details 3...(Servlet)</a></li>
 		
+		<!-- jsp -->
 		<li><a href="/Step02_Request/detail.jsp?num=1">Show details 1...(jsp)</a></li>
 		<li><a href="/Step02_Request/detail.jsp?num=2">Show details 2...(jsp)</a></li>
 		<li><a href="/Step02_Request/detail.jsp?num=3">Show details 3...(jsp)</a></li>
