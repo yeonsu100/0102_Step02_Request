@@ -20,6 +20,12 @@
 		<li><a href="/Step02_Request/detail.jsp?num=1">Show details 1...(jsp)</a></li>
 		<li><a href="/Step02_Request/detail.jsp?num=2">Show details 2...(jsp)</a></li>
 		<li><a href="/Step02_Request/detail.jsp?num=3">Show details 3...(jsp)</a></li>
+		
+		<!-- GET 방식 전송 파라미터가 여러개이면 &로 구분해서 작성한다. -->
+		<li><a href="/Step02_Request/sub/view.jsp?num=1&name=Winnie&addr=honolulu">Click</a></li>
+		<li><a href="users/loginform.jsp">Sign In</a></li>
+		<li><a href="member/insertform.jsp">Add to member</a></li>
+		<li><a href="users/signup_form.jsp">Create an account</a></li>
 	</ul>
 </div>
 </body>
