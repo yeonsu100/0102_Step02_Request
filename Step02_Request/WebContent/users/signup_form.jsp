@@ -44,7 +44,7 @@
 		<div class="form-group">
 			<label for="like">좋아하는 것 선택</label>
 			<select class="form-control" name="like" id="like">
-				<option value="">선택</option>
+				<option>선택</option>
 				<option value="java">자바</option>
 				<option value="python">파이선</option>
 				<option value="android">안드로이드</option>
