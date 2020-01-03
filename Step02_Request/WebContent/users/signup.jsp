@@ -41,8 +41,10 @@
 	System.out.println("like: "+like);
 	System.out.println("comment: "+comment);
 %>
+
 <script>
 	alert("<%=email %> 님 가입 완료되었습니다!")
 </script>
+
 </body>
 </html>
