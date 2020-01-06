@@ -14,7 +14,7 @@
 	// 아이디, 비밀번호가 유효한 정보인지 DB에서 확인해본다.
 	boolean isValid=false;
 	if(id.equals("Winnie") && pwd.equals("1234")){
-		// 아이디 : "Winnie", 비번 : "1234"가 유효한 정보라고 가정하자.
+		// 아이디 : "Winnie", 비번 : "1234"가 유효한 정보라고 가정하자. (아직 DB 연동 전이므로)
 		isValid=true;
 	}
 %>
